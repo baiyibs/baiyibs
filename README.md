@@ -4,6 +4,10 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baiyibs/baiyibs/output/github-snake-dark.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/baiyibs/baiyibs/output/github-snake.svg">
 </picture>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **baiyibs/baiyibs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
