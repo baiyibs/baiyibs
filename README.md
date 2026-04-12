@@ -5,8 +5,8 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baiyibs/baiyibs/output/github-snake-dark.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/baiyibs/baiyibs/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baiyibs/baiyibs/main/profile-snake-contrib/github-snake-dark.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/baiyibs/baiyibs/main/profile-snake-contrib/github-snake.svg">
 </picture>
 
 <!--START_SECTION:waka-->
