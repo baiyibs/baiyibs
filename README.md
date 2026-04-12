@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=550&height=70&lines=rustc+hello.rs+%26%26+./hello;Hello,+world!+🦀" alt="Rust run" />
+</div>
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="300" alt="coding">
 </div>
 
