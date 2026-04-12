@@ -12,24 +12,24 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repository
+      - name: Checkout main branch
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Generate Snake SVG
         uses: platane/snk@v3
-        id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            profile-snake-contrib/github-snake.svg
+            profile-snake-contrib/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Deploy to branch 'output'
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Commit and push if changed
+        uses: EndBug/add-and-commit@v9
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          add: 'profile-snake-contrib/'
+          message: 'Update snake SVG in profile-snake-contrib folder'
+          default_author: github_actions
