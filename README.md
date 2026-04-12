@@ -6,6 +6,13 @@
 </picture>
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 0 hrs 14 mins
+
+Java   0 hrs 14 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
