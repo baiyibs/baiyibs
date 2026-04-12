@@ -10,10 +10,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="300" alt="coding">
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baiyibs/baiyibs/main/profile-snake-contrib/github-snake-dark.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/baiyibs/baiyibs/main/profile-snake-contrib/github-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baiyibs/baiyibs/main/profile-snake-contrib/github-snake-dark.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/baiyibs/baiyibs/main/profile-snake-contrib/github-snake.svg">
+  </picture>
+<div>
 
 <!--START_SECTION:waka-->
 
