@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/REPO/output/github-snake-dark.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/USERNAME/REPO/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baiyibs/baiyibs/output/github-snake-dark.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/baiyibs/baiyibs/output/github-snake.svg">
 </picture>
 <!--
 **baiyibs/baiyibs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
