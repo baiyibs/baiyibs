@@ -14,7 +14,8 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
+          WAKATIME_API_URL: ${{ secrets.WAKAPI_BASE_URL }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_LANGUAGE: 'True'
           SHOW_EDITORS: 'True'
