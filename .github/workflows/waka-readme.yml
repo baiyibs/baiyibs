@@ -29,4 +29,4 @@ jobs:
           SHOW_PROJECTS: 'False'
           SHOW_TIMEZONE: 'False'
           SYMBOL_VERSION: '2'
-          LOCALE: 'zh-CN'
+          LOCALE: 'zh'
