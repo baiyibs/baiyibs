@@ -20,9 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 hrs 14 mins
+Total Time: 0 hrs 19 mins
 
-Java   0 hrs 14 mins         🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕   100.00 %
+Java         0 hrs 14 mins         🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌕🌒🌑🌑🌑🌑🌑🌑   72.60 %
+INI          0 hrs 3 mins          🌕🌕🌕🌓🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   13.57 %
+Html         0 hrs 3 mins          🌕🌕🌕🌒🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   13.48 %
+Javascript   0 hrs 0 mins          🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   00.35 %
 ```
 
 <!--END_SECTION:waka-->
