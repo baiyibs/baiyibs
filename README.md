@@ -15,7 +15,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baiyibs/baiyibs/main/profile-snake-contrib/github-snake-dark.svg">
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/baiyibs/baiyibs/main/profile-snake-contrib/github-snake.svg">
   </picture>
-<div>
+</div>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20hrs%2019%20mins-blue?style=flat)
