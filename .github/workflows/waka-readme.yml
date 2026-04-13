@@ -16,7 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
           WAKATIME_API_URL: ${{ secrets.WAKAPI_BASE_URL }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
           SHOW_LANGUAGE: 'True'
           SHOW_EDITORS: 'True'
           SHOW_OS: 'True'
