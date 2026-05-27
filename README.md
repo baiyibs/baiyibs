@@ -22,19 +22,19 @@
 
 ```text
 💬 编程语言: 
-Java                     4 hrs 18 mins       █████████████████████░░░░   82.20 % 
-Javascript               0 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Unknown                  0 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Gitignore file           0 hrs 4 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-Batchfile                0 hrs 4 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Java                     4 hrs 17 mins       █████████████████████░░░░   85.20 % 
+Javascript               0 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Unknown                  0 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Text                     0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Plain_text               0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 编辑器: 
-Intellijidea             4 hrs 33 mins       ██████████████████████░░░   86.90 % 
-Vscode                   0 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Intellijidea             4 hrs 20 mins       ██████████████████████░░░   86.36 % 
+Vscode                   0 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
 Goland                   0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 操作系统: 
-Windows                  5 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 1 mins        █████████████████████████   100.00 % 
 ```
 
 **我最常使用 TypeScript** 
@@ -48,7 +48,7 @@ C                        1 repo              ██████░░░░░�
 
 
 
- Last Updated on 26/05/2026 04:17:12 UTC
+ Last Updated on 27/05/2026 04:39:59 UTC
 <!--END_SECTION:waka-->
 
 <!--
