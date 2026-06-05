@@ -22,15 +22,15 @@
 
 ```text
 💬 编程语言: 
-Java                     0 hrs 47 mins       ██████████████████████░░░   88.51 % 
-XML                      0 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Gitignore file           0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Java                     0 hrs 25 mins       ████████████████████░░░░░   78.52 % 
+XML                      0 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+Gitignore file           0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 编辑器: 
-Intellijidea             0 hrs 53 mins       █████████████████████████   100.00 % 
+Intellijidea             0 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  0 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  0 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 TypeScript** 
@@ -44,7 +44,7 @@ C                        1 repo              ██████░░░░░�
 
 
 
- Last Updated on 04/06/2026 04:53:53 UTC
+ Last Updated on 05/06/2026 04:38:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
