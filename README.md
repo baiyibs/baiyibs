@@ -22,18 +22,18 @@
 
 ```text
 💬 编程语言: 
-Java                     4 hrs 35 mins       ██████████████████████░░░   87.87 % 
-Kotlin                   0 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Properties               0 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Json                     0 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Plain_text               0 hrs 5 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Java                     3 hrs 43 mins       █████████████████████░░░░   85.49 % 
+Kotlin                   0 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Properties               0 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Json                     0 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Plain_text               0 hrs 5 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 编辑器: 
-Intellijidea             5 hrs 7 mins        ████████████████████████░   97.99 % 
-Vscode                   0 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Intellijidea             4 hrs 14 mins       ████████████████████████░   97.59 % 
+Vscode                   0 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 💻 操作系统: 
-Windows                  5 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Java** 
@@ -47,7 +47,7 @@ TypeScript               1 repo              ████████░░░�
 
 
 
- Last Updated on 18/06/2026 04:49:52 UTC
+ Last Updated on 19/06/2026 05:10:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
