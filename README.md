@@ -22,18 +22,15 @@
 
 ```text
 💬 编程语言: 
-Java                     3 hrs 43 mins       █████████████████████░░░░   85.49 % 
-Kotlin                   0 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Properties               0 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-Json                     0 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-Plain_text               0 hrs 5 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Java                     2 hrs 21 mins       ███████████████████████░░   92.48 % 
+Kotlin                   0 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Plain_text               0 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🔥 编辑器: 
-Intellijidea             4 hrs 14 mins       ████████████████████████░   97.59 % 
-Vscode                   0 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Intellijidea             2 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  4 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Java** 
@@ -47,7 +44,7 @@ TypeScript               1 repo              ████████░░░�
 
 
 
- Last Updated on 19/06/2026 05:10:41 UTC
+ Last Updated on 20/06/2026 04:22:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
