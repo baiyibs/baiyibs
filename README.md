@@ -22,14 +22,13 @@
 
 ```text
 💬 编程语言: 
-Java                     0 hrs 21 mins       ████████████████████████░   97.64 % 
-Kotlin                   0 hrs 1 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Java                     0 hrs 0 mins        █████████████████████████   100.00 % 
 
 🔥 编辑器: 
-Intellijidea             0 hrs 22 mins       █████████████████████████   100.00 % 
+Intellijidea             0 hrs 0 mins        █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  0 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  0 hrs 0 mins        █████████████████████████   100.00 % 
 ```
 
 **我最常使用 Java** 
@@ -43,7 +42,7 @@ TypeScript               1 repo              ████████░░░�
 
 
 
- Last Updated on 25/06/2026 04:15:18 UTC
+ Last Updated on 26/06/2026 04:21:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
