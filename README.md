@@ -22,15 +22,18 @@
 
 ```text
 💬 编程语言: 
-Javascript               1 hrs 53 mins       ████████████████████████░   97.65 % 
-Json                     0 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-Unknown                  0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Javascript               0 hrs 57 mins       ████████████░░░░░░░░░░░░░   46.49 % 
+Java                     0 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   41.32 % 
+XML                      0 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Json                     0 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+TOML                     0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 编辑器: 
-Vscode                   1 hrs 55 mins       █████████████████████████   100.00 % 
+Intellijidea             1 hrs 3 mins        █████████████░░░░░░░░░░░░   51.31 % 
+Vscode                   1 hrs 0 mins        ████████████░░░░░░░░░░░░░   48.69 % 
 
 💻 操作系统: 
-Windows                  1 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **我最常使用 JavaScript** 
@@ -44,7 +47,7 @@ TypeScript               1 repo              ████████░░░�
 
 
 
- Last Updated on 23/07/2026 03:33:58 UTC
+ Last Updated on 24/07/2026 03:30:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
