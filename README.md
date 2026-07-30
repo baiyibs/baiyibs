@@ -22,19 +22,20 @@
 
 ```text
 💬 编程语言: 
-Java                     10 hrs 3 mins       ███████████████████░░░░░░   74.79 % 
-Javascript               0 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-XML                      0 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-TOML                     0 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-YAML                     0 hrs 16 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Java                     11 hrs 44 mins      ████████████████████░░░░░   79.66 % 
+XML                      0 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+TOML                     0 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Python                   0 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+YAML                     0 hrs 16 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 编辑器: 
-Intellijidea             11 hrs 49 mins      ██████████████████████░░░   87.88 % 
-Vscode                   1 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Jetbrainsrider           0 hrs 13 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Intellijidea             13 hrs 35 mins      ███████████████████████░░   92.21 % 
+Pycharm                  0 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Vscode                   0 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Jetbrainsrider           0 hrs 13 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 💻 操作系统: 
-Windows                  13 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -55,7 +56,7 @@ TypeScript               1 repo              ██████░░░░░�
 
 
 
- Last Updated on 29/07/2026 03:23:25 UTC
+ Last Updated on 30/07/2026 02:56:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
