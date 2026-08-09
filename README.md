@@ -22,19 +22,19 @@
 
 ```text
 💬 编程语言: 
-Java                     1 hrs 58 mins       ████████████░░░░░░░░░░░░░   49.14 % 
-C#                       0 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-YAML                     0 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Groovy                   0 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Xaml                     0 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Java                     1 hrs 49 mins       ██████████████░░░░░░░░░░░   56.99 % 
+YAML                     0 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+C#                       0 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Groovy                   0 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Gradle                   0 hrs 4 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🔥 编辑器: 
-Intellijidea             2 hrs 57 mins       ██████████████████░░░░░░░   73.75 % 
-Jetbrainsrider           1 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+Intellijidea             2 hrs 51 mins       ██████████████████████░░░   88.64 % 
+Jetbrainsrider           0 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 Goland                   0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 操作系统: 
-Windows                  4 hrs 0 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -54,7 +54,7 @@ TypeScript               1 repo              ██████░░░░░�
 
 
 
- Last Updated on 08/08/2026 02:06:17 UTC
+ Last Updated on 09/08/2026 02:18:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
