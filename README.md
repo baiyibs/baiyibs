@@ -22,18 +22,18 @@
 
 ```text
 💬 编程语言: 
-Java                     2 hrs 4 mins        ███████████████░░░░░░░░░░   58.57 % 
-XML                      0 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-YAML                     0 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-TOML                     0 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Java properties          0 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Java                     2 hrs 4 mins        █████████████░░░░░░░░░░░░   50.60 % 
+XML                      0 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+YAML                     0 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+TOML                     0 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Java properties          0 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 🔥 编辑器: 
-Intellijidea             2 hrs 29 mins       ██████████████████░░░░░░░   70.73 % 
-Vscode                   1 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+Intellijidea             2 hrs 44 mins       █████████████████░░░░░░░░   67.07 % 
+Vscode                   1 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.93 % 
 
 💻 操作系统: 
-Windows                  3 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -53,7 +53,7 @@ TypeScript               1 repo              ██████░░░░░�
 
 
 
- Last Updated on 20/08/2026 01:42:06 UTC
+ Last Updated on 21/08/2026 01:47:17 UTC
 <!--END_SECTION:waka-->
 
 <!--
