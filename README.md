@@ -22,17 +22,15 @@
 
 ```text
 💬 编程语言: 
-Java                     1 hrs 2 mins        ████████████████████████░   94.15 % 
-Kotlin                   0 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-Class                    0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-XML                      0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Java                     1 hrs 2 mins        █████████████████████████   98.12 % 
+Class                    0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 Idea_module              0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 编辑器: 
-Intellijidea             1 hrs 6 mins        █████████████████████████   100.00 % 
+Intellijidea             1 hrs 3 mins        █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  1 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  1 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -52,7 +50,7 @@ TypeScript               1 repo              ██████░░░░░�
 
 
 
- Last Updated on 14/09/2026 04:37:10 UTC
+ Last Updated on 15/09/2026 04:37:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
