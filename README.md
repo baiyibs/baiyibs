@@ -22,17 +22,17 @@
 
 ```text
 💬 编程语言: 
-Java                     1 hrs 27 mins       ████████████████████████░   94.37 % 
-Kotlin                   0 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Java properties          0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-Properties               0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Kotlin                   0 hrs 9 mins        █████████████░░░░░░░░░░░░   50.05 % 
+Java                     0 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   39.82 % 
+Java properties          0 hrs 1 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Properties               0 hrs 1 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 Shell script             0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 编辑器: 
-Intellijidea             1 hrs 33 mins       █████████████████████████   100.00 % 
+Intellijidea             0 hrs 18 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  1 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  0 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -41,18 +41,16 @@ Windows                  1 hrs 33 mins       ███████████�
 No AI Coding Activity Tracked This Week
 ```
 
-**我最常使用 Java** 
+**我最常使用 TypeScript** 
 
 ```text
-Java                     2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-C                        1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-TypeScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               1 repo              █████████████████████████   100.00 % 
 ```
 
 
 
 
- Last Updated on 23/09/2026 04:29:56 UTC
+ Last Updated on 24/09/2026 04:27:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
