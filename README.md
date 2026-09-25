@@ -22,17 +22,17 @@
 
 ```text
 💬 编程语言: 
-Kotlin                   0 hrs 9 mins        █████████████░░░░░░░░░░░░   50.05 % 
-Java                     0 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   39.82 % 
-Java properties          0 hrs 1 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Properties               0 hrs 1 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Java                     0 hrs 7 mins        ████████████░░░░░░░░░░░░░   47.29 % 
+Kotlin                   0 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   40.67 % 
+Java properties          0 hrs 1 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Properties               0 hrs 1 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 Shell script             0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 编辑器: 
-Intellijidea             0 hrs 18 mins       █████████████████████████   100.00 % 
+Intellijidea             0 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  0 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  0 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -50,7 +50,7 @@ TypeScript               1 repo              ███████████�
 
 
 
- Last Updated on 24/09/2026 04:27:29 UTC
+ Last Updated on 25/09/2026 04:38:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
