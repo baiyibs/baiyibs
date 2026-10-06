@@ -22,14 +22,13 @@
 
 ```text
 💬 编程语言: 
-Java                     0 hrs 18 mins       █████████████████████████   98.48 % 
-Kotlin                   0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-Intellijidea             0 hrs 19 mins       █████████████████████████   100.00 % 
+本周没有记录到任何活动
 
 💻 操作系统: 
-Windows                  0 hrs 19 mins       █████████████████████████   100.00 % 
+本周没有记录到任何活动
 ```
 
 🤖 **AI Coding This Week** 
@@ -47,7 +46,7 @@ TypeScript               1 repo              ███████████�
 
 
 
- Last Updated on 05/10/2026 05:18:05 UTC
+ Last Updated on 06/10/2026 06:02:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
