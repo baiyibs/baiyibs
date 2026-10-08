@@ -22,13 +22,16 @@
 
 ```text
 💬 编程语言: 
-本周没有记录到任何活动
+Java                     0 hrs 12 mins       ████████████████████░░░░░   79.25 % 
+YAML                     0 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Gitignore file           0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 编辑器: 
-本周没有记录到任何活动
+Intellijidea             0 hrs 12 mins       ████████████████████░░░░░   79.27 % 
+Vscode                   0 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
 
 💻 操作系统: 
-本周没有记录到任何活动
+Windows                  0 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -46,7 +49,7 @@ TypeScript               1 repo              ███████████�
 
 
 
- Last Updated on 07/10/2026 05:37:26 UTC
+ Last Updated on 08/10/2026 05:45:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
