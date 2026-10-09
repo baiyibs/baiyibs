@@ -22,16 +22,18 @@
 
 ```text
 💬 编程语言: 
-Java                     0 hrs 12 mins       ████████████████████░░░░░   79.25 % 
-YAML                     0 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Gitignore file           0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Java                     2 hrs 48 mins       ████████████████████████░   97.77 % 
+YAML                     0 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Textmate                 0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Markdown                 0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Plain_text               0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 编辑器: 
-Intellijidea             0 hrs 12 mins       ████████████████████░░░░░   79.27 % 
-Vscode                   0 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+Intellijidea             2 hrs 49 mins       █████████████████████████   98.12 % 
+Vscode                   0 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 💻 操作系统: 
-Windows                  0 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -49,7 +51,7 @@ TypeScript               1 repo              ███████████�
 
 
 
- Last Updated on 08/10/2026 05:45:37 UTC
+ Last Updated on 09/10/2026 05:49:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
