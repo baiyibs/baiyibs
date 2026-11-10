@@ -22,7 +22,9 @@
 
 ```text
 💬 编程语言: 
-Java                     1 hrs 7 mins        █████████████████████████   100.00 % 
+Java                     1 hrs 7 mins        █████████████████████████   99.60 % 
+Javascript               0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Plain_text               0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 编辑器: 
 Intellijidea             1 hrs 7 mins        █████████████████████████   100.00 % 
@@ -46,7 +48,7 @@ TypeScript               1 repo              ███████████�
 
 
 
- Last Updated on 09/11/2026 05:54:45 UTC
+ Last Updated on 10/11/2026 06:58:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
